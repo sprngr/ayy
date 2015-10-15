@@ -4,6 +4,6 @@
 echo "ayy lmao\n";
 
 # dAYYvid aLAMOen
-echo "AYY LMAO\n";
+echo "ayy lmao\n";
 
 # Ur name here
