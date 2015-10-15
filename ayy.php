@@ -9,4 +9,7 @@ echo "ayy lmao\n";
 # Mayyke Sprngr
 echo "ayy lmao\n";
 
+# Buck
+echo "ayy lmao\n";
+
 # Ur name here
